@@ -23,7 +23,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "hls.js": "^1.4.10",
+    "hls.js": "^1.4.12",
     "pixi.js": "^7.2.4"
   }
 }
