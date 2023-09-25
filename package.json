@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "hls.js": "^1.4.10",
-    "pixi.js": "^7.2.4"
+    "pixi.js": "^7.3.1"
   }
 }
